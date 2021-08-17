@@ -15,18 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.linkedin.com/in/prashant-mishra-35b6a8183/">
-  <img align="left" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  <img align="left" alt="Prashant's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="mailto:prashantkumarmishra094@gmail.com">
-  <img align="left" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/Trickym">
-  <img align="left" width="130px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-</a>
-<a href="https://www.hackerearth.com/@pm21641">
-  <img align="left" width="140px" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
-</a>
-
 
 
 
@@ -34,18 +24,20 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 🌱 I’m a Final Year Undergrad and pursuing bachelors degree in Computer Science and Engineering. </br>
-👨‍💻  I am passionate about Web Development & I enjoy learning new technologies. </br>
-
-![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=trickym&show_icons=true&hide_border=true)&nbsp;&nbsp;&nbsp;&nbsp;
+👨‍💻  I am passionate about Web Development & I enjoy learning new technologies and currently working on ReactJs. </br>
+<br />
+<p > <img src="https://github-readme-stats.vercel.app/api?username=trickym&show_icons=true&theme=gotham" alt="trickym" />
+<br/>
 
 ### Skills 👨‍💻 
   <img align="left" width="120px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"  />
   <img align="left" width="135px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
   <img align="left" width="120px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  />
-  <img align="left" width="200px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  />
   <img align="left" width="80px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"  />
-  <br />
-  <br />
-  <br />
-  <img align="left" width="150px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  />
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   
