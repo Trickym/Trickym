@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🌱 I’m a Final Year Undergrad and pursuing bachelors degree in Computer Science and Engineering. </br>
 👨‍💻  I am passionate about Web Development & I enjoy learning new technologies and currently working on ReactJs. </br>
 <br />
-<p > <img src="https://github-readme-stats.vercel.app/api?username=trickym&show_icons=true&theme=gotham" alt="trickym" />
+<p > [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickym)](https://github.com/trickym/github-readme-stats)
 <br/>
 
 ### Skills 👨‍💻 
