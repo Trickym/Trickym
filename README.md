@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Prashant's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-[GitHub Profile Views Counter]: https://github.com/trickym/github-profile-views-counter
+![](https://komarev.com/ghpvc/?username=trickym&style=flat&color=blueviolet&label=PROFILE+VIEWS)
 
 <br />
 
