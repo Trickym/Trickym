@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/prashant-mishra-35b6a8183/">
   <img align="left" alt="Prashant's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br />
 ![](https://komarev.com/ghpvc/?username=trickym&style=flat&color=blueviolet&label=PROFILE+VIEWS)
 <br />
+
+
 ### About Me 🚀
 🌱 I’m a Final Year Undergrad and pursuing bachelors degree in Computer Science and Engineering. </br>
 👨‍💻  I am passionate about Web Development & I enjoy learning new technologies and currently working on ReactJs. </br>
