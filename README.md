@@ -28,12 +28,6 @@ Here are some ideas to get you started:
 👨‍💻  I am passionate about Web Development & I enjoy learning new technologies and currently working on ReactJs. </br>
 <br />
 <a href="https://github.com/trickym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trickym&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Prashant's github stats" /></a>
-<a href="https://github.com/jstrieb/github-stats">
-
-![](https://github.com/trickym/trickym/blob/master/generated/overview.svg)
-![](https://github.com/trickym/trickym/blob/master/generated/languages.svg)
-
-</a>
 <br/>
 
 ### Skills 👨‍💻 
