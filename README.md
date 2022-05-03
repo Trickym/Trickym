@@ -50,4 +50,14 @@ Here are some ideas to get you started:
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  
+<br/>
+<br/>
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=trickym&show_icons=true&include_all_commits=true&theme=radical" alt="Alquama's github stats" />
+
+ <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=trickym&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<p align = "center"> 
+<img src="https://activity-graph.herokuapp.com/graph?username=trickym&theme=redical">
+</p> 
