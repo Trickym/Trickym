@@ -3,16 +3,10 @@
 <!--
 **Trickym/Trickym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on K12 Techno Services Pvt. Ltd.
+- 🌱 I’m currently learning Android Development.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
 -->
 <a href="https://www.linkedin.com/in/prashant-mishra-35b6a8183/">
   <img align="left" alt="Prashant's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -25,11 +19,9 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 🌱 I’m a Final Year Undergrad and pursuing bachelors degree in Computer Science and Engineering. </br>
-👨‍💻  I am passionate about Web Development & I enjoy learning new technologies and currently working on ReactJs. </br>
+🌱 I’m currently learning Android Development. <br/>
+😄 Pronouns: He/Him. <br/>
 <br />
-<a href="https://github.com/trickym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trickym&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Prashant's github stats" /></a>
-<br/>
-
 ### Skills 👨‍💻 
   <p>
   <img align="left" width="120px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"  />
@@ -53,11 +45,11 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=trickym&show_icons=true&include_all_commits=true&theme=radical" alt="Alquama's github stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=trickym&show_icons=true&include_all_commits=true&theme=react-dark" alt="Alquama's github stats" />
 
- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=trickym&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=trickym&show_icons=true&locale=en&layout=compact&theme=react-dark&line_height=0" />
 </p> 
 
 <p align = "center"> 
-<img src="https://activity-graph.herokuapp.com/graph?username=trickym&theme=redical">
+<img src="https://activity-graph.herokuapp.com/graph?username=trickym&theme=react-dark">
 </p> 
