@@ -14,7 +14,6 @@
 
 ![](https://komarev.com/ghpvc/?username=trickym&style=flat&color=blueviolet&label=PROFILE+VIEWS)
 
-<br/>
 
 
 ### About Me 🚀
