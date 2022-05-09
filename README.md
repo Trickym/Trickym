@@ -44,7 +44,6 @@
 <br/>
 <br/>
 <p align="center">
-  <img width = "49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickym" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=trickym&show_icons=true&include_all_commits=true&theme=dark" alt="TickyM's github stats" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=trickym&show_icons=true&include_all_commits=true&theme=dark" alt="TickyM's github stats" />
 
