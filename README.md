@@ -45,8 +45,8 @@
 <br/>
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/ashutosh1919/trickym/blob/master/generated/overview.svg)
-![](https://github.com/ashutosh1919/trickym/blob/master/generated/languages.svg)
+![](https://github.com/trickym/trickym/blob/master/generated/overview.svg)
+![](https://github.com/trickym/trickym/blob/master/generated/languages.svg)
 
 </a>
 <p align="center">
