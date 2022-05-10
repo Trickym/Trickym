@@ -43,14 +43,8 @@
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br/>
 <br/>
-<a href="https://github.com/jstrieb/github-stats">
-
-![](https://github.com/trickym/trickym/blob/master/generated/overview.svg)
-![](https://github.com/trickym/trickym/blob/master/generated/languages.svg)
-
-</a>
 <p align="center">
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=trickym&show_icons=true&include_all_commits=true&theme=dark" alt="TickyM's github stats" />
  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=trickym&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
 </p> 
 
