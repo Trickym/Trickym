@@ -1,4 +1,4 @@
-## Hey  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px">, I'm [Prashant Mishra](https://www.linkedin.com/in/prashant-mishra-35b6a8183/)!
+## Hey  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">, I'm [Prashant Mishra](https://www.linkedin.com/in/prashant-mishra-35b6a8183/)!
 
 <!--
 **Trickym/Trickym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
